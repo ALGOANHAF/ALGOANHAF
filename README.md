@@ -125,7 +125,6 @@ class ALGOANHAF:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-algoanhaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/algoanhaf)
-[![X / Twitter](https://img.shields.io/badge/X_(Twitter)-algoanhaf-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/algoanhaf)
 [![Instagram](https://img.shields.io/badge/Instagram-exotic.0x92-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/exotic.0x92)
 [![Fiverr](https://img.shields.io/badge/Fiverr-algoanhaf-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/algoanhaf)
 
